@@ -16,7 +16,7 @@
       "supportsTablet": true,
       "config": {
         "googleMaps": {
-          "apiKey": "AIzaSyAhkVorSg1ewPoDt8kMKW_GWqDw8hDHSHU"
+          "apiKey": ""
         }
       }
     },
@@ -28,7 +28,7 @@
       "edgeToEdgeEnabled": true,
       "config": {
         "googleMaps": {
-          "apiKey": "AIzaSyAhkVorSg1ewPoDt8kMKW_GWqDw8hDHSHU"
+          "apiKey": ""
         }
       }
     },
